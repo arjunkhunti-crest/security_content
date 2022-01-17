@@ -64,5 +64,15 @@ tags:
   - Web.Web.url_length
   risk_score: 40
   security_domain: network
+  cim_version: 5.0.0
+  recommended_tas:
+  - Splunk_TA_citrix-netscaler
+  - Splunk_TA_nginx
+  - Splunk_TA_microsoft-iis
+  - Splunk_TA_websense-cg
+  - Splunk_TA_squid
+  - Splunk_TA_haproxy
+  - Splunk_TA_mcafee-wg
+  - Splunk_TA_cisco-wsa
 type: TTP
 version: 1

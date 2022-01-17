@@ -45,5 +45,9 @@ tags:
   - Endpoint.Filesystem.user
   - _time
   security_domain: endpoint
+  cim_version: 5.0.0
+  recommended_tas:
+  - Splunk_TA_bit9-carbonblack
+  - Splunk_TA_CrowdStrike_FDR
 type: TTP
 version: 1
