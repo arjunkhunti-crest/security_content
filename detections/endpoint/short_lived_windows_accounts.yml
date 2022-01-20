@@ -61,5 +61,10 @@ tags:
   - _time
   risk_score: 63
   security_domain: access
+  cim_version: 5.0.0
+  recommended_tas:
+  - Splunk_TA_rsa-securid
+  - Splunk_TA_aws-kinesis-firehose
+  - Splunk_TA_cyberark
 type: TTP
 version: 2
