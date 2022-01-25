@@ -62,5 +62,8 @@ tags:
   - _time
   risk_score: 80
   security_domain: endpoint
+  cim_version: 5.0.0
+  recommended_tas:
+  - Splunk_TA_bit9-carbonblack
 type: TTP
 version: 1
